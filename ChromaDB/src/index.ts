@@ -1,4 +1,4 @@
-//  MODULE 7: Vector Database - CHROMADB
+//  MODULE 7: VECTOR DATABASE - CHROMADB
 
 import { ChromaClient, EmbeddingFunction } from "chromadb";
 import { GoogleGenAI } from "@google/genai";
