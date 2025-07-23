@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "name": "Apple",
+    "description": "A sweet, crunchy fruit often red or green in color. Commonly eaten raw or in various dishes."
+  },
+  {
+    "id": "2",
+    "name": "Banana",
+    "description": "A soft, sweet fruit with a yellow peel and high potassium content. Popular energy source."
+  },
+  {
+    "id": "3",
+    "name": "Orange",
+    "description": "A juicy citrus fruit known for its bright orange color and high vitamin C content."
+  },
+  {
+    "id": "4",
+    "name": "Strawberry",
+    "description": "A small, red fruit with seeds on the outside. Sweet and juicy, often used in desserts."
+  },
+  {
+    "id": "5",
+    "name": "Pineapple",
+    "description": "A tropical fruit with a spiky, tough outer skin and sweet, tart yellow flesh."
+  },
+  {
+    "id": "6",
+    "name": "Grape",
+    "description": "Small, round or oval-shaped berries that grow in clusters. Can be green, red, purple, or black."
+  },
+  {
+    "id": "7",
+    "name": "Mango",
+    "description": "A sweet, tropical fruit with a large, flat pit. Known for its distinct flavor and vibrant color."
+  },
+  {
+    "id": "8",
+    "name": "Watermelon",
+    "description": "A large, green-skinned fruit with sweet, juicy red or pink flesh and black seeds. Very hydrating."
+  },
+  {
+    "id": "9",
+    "name": "Blueberry",
+    "description": "Small, round, dark blue or purple berries with a sweet-tart flavor, often eaten raw or in baked goods."
+  },
+  {
+    "id": "10",
+    "name": "Kiwi",
+    "description": "A small, oval fruit with fuzzy brown skin, bright green flesh, and tiny black seeds. Sweet and tangy."
+  }
+]
